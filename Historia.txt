@@ -2,6 +2,10 @@ Holi que tul
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+>>>>>>> 822f522 (Exp 1)
 
 En camara parece alto y bluberry, blackberry
